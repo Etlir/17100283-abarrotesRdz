@@ -4,6 +4,7 @@
   "description": "mi primer proyecto html",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Etlir/17100283-abarrotesRdz/issues"
   },
-  "homepage": "https://github.com/Etlir/17100283-abarrotesRdz#readme"
+  "homepage": "https://github.com/Etlir/17100283-abarrotesRdz#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
+
